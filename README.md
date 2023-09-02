@@ -6,14 +6,32 @@ This project is developed to get better at using Unity's game engine. Some new f
 **Some of the gameplay videos below have been sped up and uploaded in low resolution due to GitHub's size limitations. You can find the full-quality and unaccelerated version of the gameplay video on my [YouTube channel](https://www.youtube.com/@ecagric/videos).**
 
 ## Opening Scene
-![Opening Scene](https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/d5ddd5e6-03cf-420e-9ecd-e6862e955f2c)
+![Opening Scene](https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/e989844b-19f9-40b0-8f52-0a3b0c2388ff)
+
 ## First Episode
-https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/ec5df6fd-2300-42b3-b022-46d277418b1d
 
-https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/12e09ded-402d-4134-8a90-106b1d0258ce
+
+https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/e6c496fc-3025-47c6-8353-10a4ace22067
+
+
+
+https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/968b7b94-83d2-4e9b-9438-3cbc9f022f80
+
+
 ## Second Episode
-https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/936de1d3-a3d0-4a1c-bc97-466cd4dbe343
-## Last Episode
-https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/ec7f936b-be5c-4297-8125-907608471d28
 
-https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/63b7d5d7-bb40-4ce9-9315-a76c65666e94
+
+https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/3e5b13ea-16a8-44a2-8d58-9a9ab3649d66
+
+
+## Last Episode
+
+
+https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/12fb43e7-9cd4-4bde-90cd-70b3a46ade25
+
+
+https://github.com/ecagri/OPERATION-FRIENDSHIP/assets/101584509/4c802d90-8155-468b-b71d-672052ee2762
+
+
+
+
